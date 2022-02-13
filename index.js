@@ -13,6 +13,7 @@ module.exports = {
 		"indent": ["error", "tab"],
 		"semi": ["error", "always"],
 		"semi-spacing": "error",
+		"space-before-function-paren": ["error", "always"],
 		"curly": "error",
 		"default-case": "error",
 		"max-lines-per-function": ["error", 25],
